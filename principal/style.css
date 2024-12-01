@@ -466,6 +466,10 @@ body{
 /* PARTE RELACIONADA A ADAPTAÇÂO MOBILE */
 
 @media(max-width:991px) {
+
+    .back {
+        min-height: 700px;
+    }
     
     .cabeçalho{
         padding: 20px;

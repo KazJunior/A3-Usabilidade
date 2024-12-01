@@ -25,16 +25,6 @@
     overflow: hidden;
     font-size: .9rem;
 }
-.prolife-pic{
-    width: 100px;
-    height: 100px;
-    background: url(/perfil/img/image02.jpg) 0px 2px / cover;
-    border-radius:50% ;
-    border: 3px solid;
-    border: 3px solid #f9f9f9;
-    transition: .4s ease;
-}
-
 .layer{
     position: absolute;
     top: 21%;

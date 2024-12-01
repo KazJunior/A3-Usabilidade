@@ -26,13 +26,9 @@ if(isset($_SESSION['id_usuario']) && !empty ($_SESSION['id_usuario'])): ?>
 </header>
     <div class="main-container">
     <div class="container">
-        <div class="prolife-pic"></div>
         <div class="layer"></div>
         <div class="detail">
             <p><?php echo $nomeUser?></p>
-        </div>
-        <div class="btn">
-            <a button type="button">Modo daltônico</button> </a>
         </div>
         <div class="btn">
             <a class="out-btn" href="logout.php">Sair</a>
